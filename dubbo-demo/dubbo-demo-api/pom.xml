@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<project
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd"
+	xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<modelVersion>4.0.0</modelVersion>
+	<parent>
+		<groupId>org.jeedevframework.dubbo</groupId>
+		<artifactId>dubbo-demo</artifactId>
+		<version>1.0.0</version>
+	</parent>
+	<artifactId>dubbo-demo-api</artifactId>
+	<packaging>jar</packaging>
+	<version>${dubbo.demo.version}</version>
+	<name>dubbo-demo-api</name>
+	
+	<properties>
+		<skip_maven_deploy>true</skip_maven_deploy>
+	</properties>
+	<dependencies>
+		
+	</dependencies>
+</project>

@@ -1,0 +1,3 @@
+eclipse.preferences.version=1
+validator.Checked=src/main/resources/dubbo-consumer.xml,src/main/resources/META-INF/spring/dubbo-demo-consumer.xml
+validator.Unchecked=
