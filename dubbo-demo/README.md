@@ -39,4 +39,6 @@ run dubbo-demo-consumer/org.jeedevframework.dubbo.app.Consumer.main
 
 download dubbo-admin-2.5.3.war and run on tomcat or jetty
 
+(vi webapps/ROOT/WEB-INF/dubbo.properties)
+
 many pictures in /document/screenshot/ **
